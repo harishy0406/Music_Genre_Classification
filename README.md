@@ -7,3 +7,7 @@ Each model learns distinct representations of the audio features:
 * Transformer leverages attention mechanisms to understand global dependencies in audio data.
 
 The performance of each architecture is compared to identify the most effective approach for accurate and robust music genre classification.
+
+## AutoEncoder:
+
+![AutoEncoder-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e3f4d501-dc3b-4e4d-8d58-fc9aa944475b)
