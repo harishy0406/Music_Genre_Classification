@@ -4,6 +4,6 @@ Each model learns distinct representations of the audio features:
 * AutoEncoder compresses and reconstructs features for unsupervised learning.
 * CNN captures spatial and frequency patterns in spectrograms.
 * LSTM models the temporal dynamics in musical sequences.
-* Transformer leverages attention mechanisms to understand global dependencies in audio data.
+* TCN
 
 The performance of each architecture is compared to identify the most effective approach for accurate and robust music genre classification.
