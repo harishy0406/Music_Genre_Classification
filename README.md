@@ -14,5 +14,5 @@ The performance of each architecture is compared to identify the most effective 
 
 ## CNN:
 
-
+## LSTM:
 
