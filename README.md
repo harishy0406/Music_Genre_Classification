@@ -11,3 +11,8 @@ The performance of each architecture is compared to identify the most effective 
 ## AutoEncoder:
 
 ![AutoEncoder-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e3f4d501-dc3b-4e4d-8d58-fc9aa944475b)
+
+## CNN:
+
+
+
